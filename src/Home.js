@@ -12,9 +12,9 @@ const Home = () => {
             <div className="home__row">
                  <Product 
                  id="123123123"
-                 title="The lean Startup"
+                 title="THE POWER OF YOUR SUBCONSCIOUS MIND"
                  price={999}
-                 image="lean-startup.jpg"
+                 image="https://m.media-amazon.com/images/I/41ZeKSZvlpL._UX300_PJku-sticker-v7,TopRight,0,-50_.jpg"
                  rating={5}
                  />
                  <Product 

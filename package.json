@@ -1,5 +1,4 @@
 {
-  "homepage": "https://deepakpatel-dev.github.com/amazon-clone",
   "name": "amazon-clone",
   "version": "0.1.0",
   "private": true,
@@ -13,14 +12,13 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
+    "react-currency-format": "^1.0.0",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
