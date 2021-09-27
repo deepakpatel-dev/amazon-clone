@@ -11,7 +11,7 @@ const Home = () => {
             </div> 
             <div className="home__row">
                  <Product 
-                 id="123123123"
+                 id="121121121"
                  title="THE POWER OF YOUR SUBCONSCIOUS MIND"
                  price={999}
                  image="https://m.media-amazon.com/images/I/41ZeKSZvlpL._UX300_PJku-sticker-v7,TopRight,0,-50_.jpg"
@@ -28,21 +28,21 @@ const Home = () => {
             </div>
             <div className="home__row">
                  <Product 
-                 id="123123123"
+                 id="124124124"
                  title="Funny T Shirt for Men"
                  price={99}
                  image="https://m.media-amazon.com/images/I/61AO6QebO5L._AC_UL640_FMwebp_QL65_.jpg"
                  rating={2}
                  />
                  <Product 
-                 id="123123123"
+                 id="125125125"
                  title="Paint Brushes Set"
                  price={1299}
                  image="https://m.media-amazon.com/images/I/81ON4-sLO0L._AC_UL640_FMwebp_QL65_.jpg"
                  rating={3}
                  />
                  <Product 
-                 id="123123123"
+                 id="126126126"
                  title="Canon-All in One Printer"
                  price={1299}
                  image="https://m.media-amazon.com/images/I/81BJDjwDjVL._AC_UL640_FMwebp_QL65_.jpg"
@@ -51,7 +51,7 @@ const Home = () => {
             </div>
             <div className="home__row">
                  <Product 
-                 id="123123123"
+                 id="127127127"
                  title="Sony X80J 65 Inch TV: 4K Ultra HD LED Smart Google TV with Dolby Vision HDR and Alexa Compatibility KD65X80J- 2021 Model"
                  price={1299}
                  image="https://m.media-amazon.com/images/I/91RfzivKmwL._AC_UL640_FMwebp_QL65_.jpg"
