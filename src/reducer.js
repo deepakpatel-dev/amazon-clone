@@ -12,6 +12,13 @@ const reducer = (state,action) => {
             ...state,
             basket:[...state.basket , action.item],
         }
+
+        case 'EMPTY_BASKET':
+            return {
+                ...state  ,
+                basket:[]
+
+            }
         case 'REMOVE_FROM_BASKET':
 
         // not popular because it delete all items having same id
@@ -41,6 +48,7 @@ const reducer = (state,action) => {
                 ...state,
                 user: action.user
             } 
+          
 
         default:
             return state;
